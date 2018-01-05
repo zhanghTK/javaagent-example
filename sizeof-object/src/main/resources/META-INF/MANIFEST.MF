@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: tk.zhangh.javaagent.Sizeof
+Can-Redefine-Classes: false
+Main-Class: tk.zhangh.javaagent.SizeofApp
